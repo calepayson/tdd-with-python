@@ -9,3 +9,35 @@ console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1
 1690238047737	Marionette	INFO	Listening on port 53888
 Read port: 53888
 1690238048032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690239609452	geckodriver	INFO	Listening on 127.0.0.1:54437
+1690239610466	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilezUKImo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690239610946	Marionette	INFO	Marionette enabled
+1690239611333	Marionette	INFO	Listening on port 54444
+Read port: 54444
+1690239611536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690240157570	geckodriver	INFO	Listening on 127.0.0.1:54654
+1690240157577	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofile6Y5IWM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690240158193	Marionette	INFO	Marionette enabled
+1690240158391	Marionette	INFO	Listening on port 54659
+Read port: 54659
+1690240158649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690240160787	Marionette	INFO	Stopped listening on port 54659
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1690240214267	geckodriver	INFO	Listening on 127.0.0.1:54687
+1690240215290	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofile3omtu6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690240215882	Marionette	INFO	Marionette enabled
+1690240216074	Marionette	INFO	Listening on port 54695
+Read port: 54695
+1690240216394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690240218494	Marionette	INFO	Stopped listening on port 54695
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
