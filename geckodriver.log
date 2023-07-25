@@ -98,3 +98,95 @@ console.error: services.settings:
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+1690255845084	geckodriver	INFO	Listening on 127.0.0.1:56106
+1690255845100	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileaERq2t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690255845937	Marionette	INFO	Marionette enabled
+1690255846173	Marionette	INFO	Listening on port 56111
+Read port: 56111
+1690255846547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690255848709	Marionette	INFO	Stopped listening on port 56111
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+1690255969779	geckodriver	INFO	Listening on 127.0.0.1:56149
+1690255969794	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilezxIxtS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690255970527	Marionette	INFO	Marionette enabled
+1690255970759	Marionette	INFO	Listening on port 56154
+Read port: 56154
+1690255971156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690255973343	Marionette	INFO	Stopped listening on port 56154
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+1690256022909	geckodriver	INFO	Listening on 127.0.0.1:56180
+1690256022925	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileAXJ3ca"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690256023666	Marionette	INFO	Marionette enabled
+1690256023894	Marionette	INFO	Listening on port 56185
+Read port: 56185
+1690256024288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690256026512	Marionette	INFO	Stopped listening on port 56185
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+1690256054409	geckodriver	INFO	Listening on 127.0.0.1:56211
+1690256054426	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileWdZOkf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690256055151	Marionette	INFO	Marionette enabled
+1690256055384	Marionette	INFO	Listening on port 56216
+Read port: 56216
+1690256055779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690256059080	Marionette	INFO	Stopped listening on port 56216
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690256111982	geckodriver	INFO	Listening on 127.0.0.1:56254
+1690256111998	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileV6xMKE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690256112720	Marionette	INFO	Marionette enabled
+1690256112965	Marionette	INFO	Listening on port 56259
+Read port: 56259
+1690256113358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690256116716	Marionette	INFO	Stopped listening on port 56259
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690256145750	geckodriver	INFO	Listening on 127.0.0.1:56294
+1690256145762	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofile4i7QGx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690256146496	Marionette	INFO	Marionette enabled
+1690256146731	Marionette	INFO	Listening on port 56299
+Read port: 56299
+1690256147128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690256150483	Marionette	INFO	Stopped listening on port 56299
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690256169665	geckodriver	INFO	Listening on 127.0.0.1:56333
+1690256169675	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilenYVL7Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690256170406	Marionette	INFO	Marionette enabled
+1690256170640	Marionette	INFO	Listening on port 56338
+Read port: 56338
+1690256171077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690256174454	Marionette	INFO	Stopped listening on port 56338
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690256246049	geckodriver	INFO	Listening on 127.0.0.1:56385
+1690256246065	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofile6kXW0s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690256246852	Marionette	INFO	Marionette enabled
+1690256247087	Marionette	INFO	Listening on port 56390
+Read port: 56390
+1690256247466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690256250701	Marionette	INFO	Stopped listening on port 56390
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
