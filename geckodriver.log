@@ -358,3 +358,50 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://l
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
 1690260144633	Marionette	INFO	Stopped listening on port 57543
 JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690262878142	geckodriver	INFO	Listening on 127.0.0.1:57690
+1690262878150	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilehmqOiL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690262878889	Marionette	INFO	Marionette enabled
+1690262879126	Marionette	INFO	Listening on port 57695
+Read port: 57695
+1690262879418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690262881501	Marionette	INFO	Stopped listening on port 57695
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/quicksuggest list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1690263063846	geckodriver	INFO	Listening on 127.0.0.1:57761
+1690263063853	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileCNlxSX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690263064469	Marionette	INFO	Marionette enabled
+1690263064657	Marionette	INFO	Listening on port 57767
+Read port: 57767
+1690263064930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1690263069077	Marionette	INFO	Stopped listening on port 57767
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690263129235	geckodriver	INFO	Listening on 127.0.0.1:57815
+1690263129250	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileVXsVqH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690263129837	Marionette	INFO	Marionette enabled
+1690263130054	Marionette	INFO	Listening on port 57820
+Read port: 57820
+1690263130399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1690263133538	Marionette	INFO	Stopped listening on port 57820
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690263208046	geckodriver	INFO	Listening on 127.0.0.1:57854
+1690263208060	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileccXeYu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690263208681	Marionette	INFO	Marionette enabled
+1690263208866	Marionette	INFO	Listening on port 57859
+Read port: 57859
+1690263209135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1690263213214	Marionette	INFO	Stopped listening on port 57859
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
