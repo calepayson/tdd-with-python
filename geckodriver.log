@@ -449,3 +449,61 @@ Read port: 61575
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
 1690391756423	Marionette	INFO	Stopped listening on port 61575
+1690477387006	geckodriver	INFO	Listening on 127.0.0.1:51371
+1690477387976	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofile9A4YPg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690477388951	Marionette	INFO	Marionette enabled
+1690477389214	Marionette	INFO	Listening on port 51382
+Read port: 51382
+1690477389405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690477391489	Marionette	INFO	Stopped listening on port 51382
+1690477409633	geckodriver	INFO	Listening on 127.0.0.1:51399
+1690477410652	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilemeN5xy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690477411362	Marionette	INFO	Marionette enabled
+1690477411588	Marionette	INFO	Listening on port 51410
+Read port: 51410
+1690477411888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690477413810	Marionette	INFO	Stopped listening on port 51410
+1690477800277	geckodriver	INFO	Listening on 127.0.0.1:51481
+1690477800296	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilevFtFGX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690477801045	Marionette	INFO	Marionette enabled
+1690477801283	Marionette	INFO	Listening on port 51490
+Read port: 51490
+1690477801668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690477803662	Marionette	INFO	Stopped listening on port 51490
+1690477927432	geckodriver	INFO	Listening on 127.0.0.1:51557
+1690477928453	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilexY9ImU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690477929111	Marionette	INFO	Marionette enabled
+1690477929333	Marionette	INFO	Listening on port 51571
+Read port: 51571
+1690477929669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1690477931566	Marionette	INFO	Stopped listening on port 51571
+1690477998437	geckodriver	INFO	Listening on 127.0.0.1:51609
+1690477999453	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilefe8QyJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690478000052	Marionette	INFO	Marionette enabled
+1690478000247	Marionette	INFO	Listening on port 51620
+Read port: 51620
+1690478000506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51608."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51608."
+1690478013757	Marionette	INFO	Stopped listening on port 51620
+1690478040241	geckodriver	INFO	Listening on 127.0.0.1:51657
+1690478041256	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilerxZh5V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690478041876	Marionette	INFO	Marionette enabled
+1690478042069	Marionette	INFO	Listening on port 51668
+Read port: 51668
+1690478042342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51656."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51656."
+1690478046618	Marionette	INFO	Stopped listening on port 51668
