@@ -581,3 +581,45 @@ Read port: 52142
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:52130."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:52130."
 1690479098495	Marionette	INFO	Stopped listening on port 52142
+1690493454055	geckodriver	INFO	Listening on 127.0.0.1:54418
+1690493455067	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofileqnK433"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690493455987	Marionette	INFO	Marionette enabled
+1690493456443	Marionette	INFO	Listening on port 54429
+Read port: 54429
+1690493456733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:54417."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:54417."
+1690493459284	Marionette	INFO	Stopped listening on port 54429
+1690493460086	geckodriver	INFO	Listening on 127.0.0.1:54457
+1690493461100	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilevFXouN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690493461656	Marionette	INFO	Marionette enabled
+1690493461866	Marionette	INFO	Listening on port 54468
+Read port: 54468
+1690493462150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:54417."
+1690493464744	Marionette	INFO	Stopped listening on port 54468
+1690493576916	geckodriver	INFO	Listening on 127.0.0.1:54503
+1690493577931	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilePPgTsp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690493578564	Marionette	INFO	Marionette enabled
+1690493578765	Marionette	INFO	Listening on port 54514
+Read port: 54514
+1690493579053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:54502."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:54502."
+1690493582334	Marionette	INFO	Stopped listening on port 54514
+1690493583127	geckodriver	INFO	Listening on 127.0.0.1:54543
+1690493584141	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/h3nmk1sx7sj9tgb55zhf82wm0000gn/T/rust_mozprofilef3J09x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690493584814	Marionette	INFO	Marionette enabled
+1690493585051	Marionette	INFO	Listening on port 54554
+Read port: 54554
+1690493585346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:54502."
+1690493587902	Marionette	INFO	Stopped listening on port 54554
