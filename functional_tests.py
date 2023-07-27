@@ -33,7 +33,7 @@ class NewVisitorTest(unittest.TestCase):
             'Enter a to-do item'
         )
 
-        # She types "Buy peacock feathers" intoo a text box (Edith's hobby is 
+        # She types "Buy peacock feathers" into a text box (Edith's hobby is 
         # tying fly fishing lures)
         inputbox.send_keys('Buy peacock feathers')
 
@@ -48,7 +48,7 @@ class NewVisitorTest(unittest.TestCase):
         inputbox = self.browser.find_element_by_id('id_new_item')
         inputbox.send_keys('Use peacock feathers to make a fly')
         inputbox.send_keys(Keys.ENTER)
-        time.sleep(1)
+        time.sleep(10)
 
         # The page upates again, and now shows both items on her list
         self.check_for_row_in_list_table('1: Buy peacock feathers')
