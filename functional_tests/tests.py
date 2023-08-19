@@ -1,4 +1,4 @@
-from django.test import LiveServerTestCase
+from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.common.keys import Keys
@@ -6,12 +6,12 @@ import time
 
 MAX_WAIT = 5
 
-class NewVisitorTest(LiveServerTestCase):
+class NewVisitorTest(StaticLiveServerTestCase):
 
-    def setUp(self) -> None:
+    def setUp(self):
         self.browser = webdriver.Firefox()
 
-    def tearDown(self) -> None:
+    def tearDown(self):
         self.browser.quit()
 
     def check_for_row_in_list_table(self, row_text):
